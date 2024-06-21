@@ -1,11 +1,10 @@
 
 p{
     color: rgb(44, 47, 51);
+    font-family: "Prompt";
+    
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    border: 2px solid rgb(136, 135, 135);
-    padding: 10px;
-    margin: 10px;
+    
 }
 .center {
     display: block;
@@ -13,3 +12,37 @@ p{
     margin-right: auto;
     
   }
+h4{
+    color: rgb(44, 47, 51);
+    
+    font-family: "Prompt";
+    border: 2px solid rgb(136, 135, 135);
+    padding: 10px;
+    margin-left: 500px;
+    margin-right: 500px;
+    text-align: center;
+}
+.center2{
+    width: 150px;
+    height: 150px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+
+}
+h1{
+    font-family: "Prompt";
+    color: #2c2e2d;
+    text-align: center;
+    font-style: italic;
+    font-style: oblique;
+    text-decoration: underline;
+}
+.frame{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid rgb(136, 135, 135);
+    padding: 20px;
+}
